@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProgramaUI</string>
+    <string name="profile">PERFIL</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="references">Referencias</string>
+    <string name="send">Enviar</string>
+    <string name="gere">Genero</string>
+    <string name="female">Femenino</string>
+    <string name="masculine">Masculino</string>
+    <string name="fiction">Categoria</string>
+    <string name="paranormal">Terror</string>
+    <string name="adventures">Aventuras</string>
+    <string name="love">Amor</string>
+    <string name="checkbox">Ficcion</string>
+    <string name="disable_color">Deshabilitar color</string>
+    <string name="books_store">TIENDA DE LIBROS</string>
+    <string name="second_tab">SEGUNDA VENTANA</string>
+    <string name="category">Categoria</string>
+    <string name="fiction1">Ficcion</string>
+</resources>

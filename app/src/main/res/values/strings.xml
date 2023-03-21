@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">ProgramaUI</string>
+    <string name="profile">PROFILE</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="e_mail" translatable="false">E-mail:</string>
+    <string name="references">References:</string>
+    <string name="send">send</string>
+    <string name="gere">GERE</string>
+    <string name="female">Female</string>
+    <string name="masculine">Masculine</string>
+    <string name="fiction">Fiction</string>
+    <string name="paranormal">Paranormal</string>
+    <string name="adventures">Adventures</string>
+    <string name="love">Love</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="color" translatable="false">color</string>
+    <string name="disable_color">Disable color</string>
+    <string name="books_store">BOOKS STORE</string>
+    <string name="todo">TODO</string>
+    <string name="second_tab">second tab</string>
+    <string name="category">Category</string>
+    <string name="fiction1">Fiction</string>
+</resources>
